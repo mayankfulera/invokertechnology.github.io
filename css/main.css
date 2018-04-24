@@ -2200,7 +2200,7 @@ html.no-csstransitions .home-content__main {
 .s-about {
     padding-top: 16.2rem;
     padding-bottom: 9rem;
-    background-color: #39b54a;
+    background: linear-gradient(to top right, #ffffff -200%, #39b54a 100%);
     color: #010507;
     position: relative;
 }
